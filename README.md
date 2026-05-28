@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Sanyam Chavan</h1>
+  <h1>Hi 👋, I'm 𝙎𝘼𝙉𝙔𝘼𝙈🔥</h1>
   <h3>AI & Robotics Enthusiast | Full-Stack Developer | System Architecture Builder</h3>
   <p>An Engineering student at SPPU, currently based in Pune. I love building autonomous systems and solving real-world problems. Currently expanding my horizons into AI, Data Science, and Computer Science.</p>
 </div>
@@ -26,7 +26,7 @@
 
 ### 🚀 Featured Projects & Focus Areas
 
-*   🧠 **Anya:** An autonomous self-healing and learning framework designed to process information and adapt autonomously. (🥉 *3rd Place Winner at PRAXIS Project Exhibition*)
+*   🧠 **Anya:** An autonomous self-healing and learning framework designed to process information and adapt autonomously.
 *   📵 **Friction:** An offline React Native application engineered to block infinite-scrolling apps and improve digital focus.
 *   🐧 **Linux & System Customization:** Deep diving into system-level optimization, running pure Arch Linux with KDE Plasma on discrete NVIDIA hardware.
 
